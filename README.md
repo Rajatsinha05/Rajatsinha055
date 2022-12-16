@@ -1,5 +1,5 @@
 
-<img align="center" src='https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif' />
+<img align="center" src='https://camo.githubusercontent.com/28832a15a2a557e13f1920f018f3018a8dfd5cc8bdcf24e18b50bf2531eb721b/68747470733a2f2f6879647261746563682e636f2e6b652f77702d636f6e74656e742f75706c6f6164732f323032312f30342f7765622d6170702d636f64696e672e676966' />
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-<p><img align="center"  Style="color:red" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsinha05&show_icons=true&locale=en&layout=compact" alt="rajatsinha05" /></p>
+
 
 
 
@@ -67,3 +67,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsinha05&show_icons=true&locale=en" alt="rajatsinha05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatsinha05&" alt="rajatsinha05" /></p>
+<p><img align="center"  Style="color:red" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajatsinha05&show_icons=true&locale=en&layout=compact" alt="rajatsinha05" /></p>
