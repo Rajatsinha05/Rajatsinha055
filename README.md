@@ -1,5 +1,5 @@
 
-<p><img align="center" src='https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif' /></p>
+<img align="center" src='https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif' />
 
 
 
