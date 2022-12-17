@@ -84,12 +84,12 @@ class Skills extends SoftwareDeveloper {
 
 <div>
 
-
-
-
-
-
 <div>
+
+
+
+
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatsinha05&show_icons=true&locale=en" alt="rajatsinha05" width=100%" /></p>
