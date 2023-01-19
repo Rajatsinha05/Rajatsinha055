@@ -13,7 +13,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Rajat Sinha</h1>
-<h3 align="center">Full-Stack development program graduate adept at playing a key role in conceptualizing, designing, and optimizing E-commerce websites as part of enhancing user experience. Proficient in streamlining features & functionalities in collaboration with the team to deliver complete solutions.</h3>
+<h3 align="center">An Aspiring and Self - Motivated Full Stack
+Web Developer with Problem solving
+mindset and ability to perform well in
+collaboration..</h3>
 
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsinha05&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsinha05" /> </p>
