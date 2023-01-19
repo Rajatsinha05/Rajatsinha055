@@ -40,11 +40,11 @@ class Skills extends SoftwareDeveloper {
 
 ```
 
-```php
+```css
 
 <div align="left">
  
-- 🔭 I’m currently working on **Lenskart Clone**
+- 🔭 I’m currently working on **Royal Brothers --clone**
 
 - 🌱 I’m currently learning **React.js**
 
