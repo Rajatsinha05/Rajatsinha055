@@ -13,10 +13,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Rajat Sinha</h1>
-<h3 align="center">An Aspiring and Self - Motivated Full Stack
-Web Developer with Problem solving
-mindset and ability to perform well in
-collaboration..</h3>
+<span align="center">An Aspiring and Self - Motivated Full Stack<br/>
+Web Developer with Problem solving<br/>
+mindset and ability to perform well in<br/>
+collaboration..</span>
 
 ##
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatsinha05&label=Profile%20views&color=0e75b6&style=flat" alt="rajatsinha05" /> </p>
@@ -45,21 +45,19 @@ class Skills extends SoftwareDeveloper {
 
 ```css
 
-<div align="left">
+
  
 - 🔭 I’m currently working on **Royal Brothers --clone**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **next.js**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
 - 💬 Ask me about **React,HTML,CSS**
 
+
 - 📫 How to reach me **Rajatsinha5467@gmail.com**
 
-
-  
-  </div>
   ```
   
   
